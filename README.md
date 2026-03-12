@@ -7,11 +7,11 @@
 
 ## 🖼️ Dashboard Preview
 
-### Page 1 — Salary Analytics
-![Salary Dashboard](Screenshot_2026-03-06_144922.png)
+### Page 1 — Employee Data Report
+![Employee Data Report](Page%201.png)
 
-### Page 2 — Employee Data Report
-![Employee Data Report](Screenshot_2026-03-06_142526.png)
+### Page 2 — Salary Analytics
+![Salary Dashboard](Page%202.png)
 
 ---
 
