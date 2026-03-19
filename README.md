@@ -8,10 +8,10 @@
 ## 🖼️ Dashboard Preview
 
 ### Page 1 — Employee Data Report
-![Employee Data Report](Page%201.png)
+![Employee Data Report](Img/Page1.png)
 
 ### Page 2 — Salary Analytics
-![Salary Dashboard](Page%202.png)
+![Salary Dashboard](Img/Page2.png)
 
 ---
 
